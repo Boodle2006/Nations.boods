@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "name": "Prudo",
+        "attributes": {
+            "wealth": 120000000,
+            "population": 10000000,
+            "militaryMight": 86,
+            "diplomacyIntrest": 7
+        },
+        "location": {
+            "continent":"Madio",
+            "neighbors":["Nuno", "Brodo", "Signo"]
+        }
+    },
+    {
+        "id": 1,
+        "name": "Nuno",
+        "attributes": {
+            "wealth": 90000000,
+            "population": 2000000,
+            "militaryMight": 45,
+            "diplomacyIntrest": 9
+        },
+        "location": {
+            "continent":"Madio",
+            "neighbors":["Prudo", "Brodo", "Signo"]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Brodo",
+        "attributes": {
+            "wealth": 117000000,
+            "population": 9000000,
+            "militaryMight": 89,
+            "diplomacyIntrest": 5
+        },
+        "location": {
+            "continent":"Madio",
+            "neighbors":["Nuno", "Prudo", "Signo"]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Signo",
+        "attributes": {
+            "wealth": 80000000,
+            "population": 3000000,
+            "militaryMight": 60,
+            "diplomacyIntrest": 8
+        },
+        "location": {
+            "continent":"Madio",
+            "neighbors":["Nuno", "Prudo", "Brodo"]
+        }
+    }
+]
